@@ -1,1 +1,1 @@
-Check it out: [rachelmyers.github.io](http://rachelmyers.github.io/).
+A version of rachelmyers.github.io, such as it is, to deploy via Opsolutely!
