@@ -29,7 +29,7 @@ header {
   min-height: 400px;
   padding: 100px 0 100px 75px;
   border-bottom: 5px solid #555;
-  background: url(images/starmonkey.png) no-repeat;
+  background: url(../images/starmonkey.png) no-repeat;
   background-position: bottom 50px right;
 }
 
@@ -90,17 +90,17 @@ q{
 /* Project images */
 
 .passion-projects {
-  background:url(images/starfish.png) fixed no-repeat;
+  background:url(../images/starfish.png) fixed no-repeat;
   background-position: left;
 }
 
 .src2013 {
-  background:url(images/tree.png) fixed no-repeat;
+  background:url(../images/tree.png) fixed no-repeat;
   background-position: right 100px center;
 }
 
 .fluent2013 {
-  background:url(images/yak.png) fixed no-repeat;
+  background:url(../images/yak.png) fixed no-repeat;
   background-position: left center;
 }
 
@@ -117,42 +117,42 @@ q{
 
 
 .velocity2013 {
-  background:url(images/buried-ostrich.png) fixed no-repeat;
+  background:url(../images/buried-ostrich.png) fixed no-repeat;
   background-position: right 100px center;
 }
 
 .wicked2013 {
-  background:url(images/dino.png) fixed no-repeat;
+  background:url(../images/dino.png) fixed no-repeat;
   background-position: left 175px center;
 }
 
 .railsgirls-milan {
-  background:url(images/boot.png) fixed no-repeat;
+  background:url(../images/boot.png) fixed no-repeat;
   background-position: right 100px center;
 }
 
 .fluent2014 {
-  background:url(images/robot.png) fixed no-repeat;
+  background:url(../images/robot.png) fixed no-repeat;
   background-position: left 200px center;
 }
 
 .codemania2014 {
-  background:url(images/car.png) fixed no-repeat;
+  background:url(../images/car.png) fixed no-repeat;
   background-position: right 50px center;
 }
 
 .frontendops2014 {
-  background:url(images/robot.png) fixed no-repeat;
+  background:url(../images/robot.png) fixed no-repeat;
   background-position: left 200px center;
 }
 
 .soa {
-  background:url(images/robot-wires.png) fixed no-repeat;
+  background:url(../images/robot-wires.png) fixed no-repeat;
   background-position: left 50px center;
 }
 
 .railsbridge {
-  background:url(images/ruby.png) fixed no-repeat;
+  background:url(../images/ruby.png) fixed no-repeat;
   background-position: right 200px center;
 }
 
@@ -160,7 +160,7 @@ footer {
   max-width: 500px;
   margin: 40px auto 0 auto;
   height: 145px;
-  background: url(images/banana.png) no-repeat;
+  background: url(../images/banana.png) no-repeat;
 }
 
 footer p{
